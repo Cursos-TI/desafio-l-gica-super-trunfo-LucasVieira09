@@ -168,7 +168,7 @@ int main() {
         }
 
         //SÉTIMO SUPER PODER
-        printf("SUPER PODER VENCEDOR É: ");
+        printf("SUPER PODER VENCEDORA É: ");
         if (SuperPoder1 > SuperPoder2) {
             printf("CARTA 1 VENCEU! \n");
         } else {
